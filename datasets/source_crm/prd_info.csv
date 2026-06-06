@@ -1,0 +1,5 @@
+prd_id,prd_key,prd_nm,prd_cost,prd_line,prd_start_dt,prd_end_dt
+101,CAT1-P100,Laptop Pro 13,850,Electronics,2024-01-01,2025-12-31
+102,CAT1-P200,Laptop Air 14,720,Electronics,2024-01-01,2025-12-31
+201,CAT2-P100,Office Chair,120,Furniture,2024-01-01,2025-12-31
+301,CAT3-P100,Wireless Headset,95,Accessories,2024-01-01,2025-12-31

@@ -1,0 +1,6 @@
+cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create_date
+1,CUST-1001,Ada,Johnson,S,F,2024-01-15
+2,CUST-1002,Michael,Brown,M,M,2024-01-18
+3,CUST-1003,Fatima,Bello,S,F,2024-02-01
+4,CUST-1004,David,Stone,M,M,2024-02-10
+5,CUST-1005,Grace,Kim,S,F,2024-02-12
